@@ -1,0 +1,55 @@
+# 🚀 Aplicación Móvil - Negocios Locales con IA
+
+## 🎯 **Objetivo de la Aplicación**
+
+La aplicación debe permitir:
+- ✅ Que cada empresa tenga un perfil donde se muestre su información
+- ✅ Que los usuarios puedan explorar y buscar otros negocios registrados en la ciudad
+
+---
+
+## 📱 **Pantallas Requeridas**
+
+### 1️⃣ **Pantalla Principal**
+Debe incluir:
+- **Cards personalizadas** de cada negocio, que contengan:
+  - 🖼️ Imagen principal del negocio
+  - 🏪 Nombre del negocio
+  - 🎯 Especialidad o categoría
+  - 👥 Cantidad de seguidores
+  - 📍 Ubicación dentro de la ciudad
+  - 🔍 Barra de búsqueda rápida
+
+### 2️⃣ **Sección de Destacados**
+- ⭐ Destacados de la semana con un pequeño resumen de los negocios más populares
+
+### 3️⃣ **Lista de Favoritos**
+- ❤️ Lista de negocios favoritos del usuario
+
+### 4️⃣ **Perfil**
+- 👤 Perfil del usuario o negocio
+
+---
+
+## 🎨 **Requerimientos de Diseño**
+
+### **Estilo Visual**
+- ✨ Minimalista y limpio
+- ☀️ Modo claro como opción principal
+- 🎨 Colores modernos: azules, degradados y blancos
+- 💧 Efecto **Liquid Glass** inspirado en la beta de iOS 26
+
+### **Tipografía**
+- 🔤 Moderna, futurista y legible
+- 📝 **Orbitron - Sans Serif**
+- 🎨 Botones del menú inferior con color cuando están seleccionados
+
+### **Localización**
+- 🇪🇸 Toda la app en **Español**
+
+### **Integración Tecnológica**
+- 🤖 Integración con algún modelo de **IA** o inteligencia artificial
+
+---
+
+> **Nota**: Este documento contiene las especificaciones completas para el desarrollo de la aplicación móvil de negocios locales con integración de inteligencia artificial.
